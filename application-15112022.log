@@ -1,0 +1,5 @@
+2022-11-15 18:09:13.850 [main] DEBUG org.example.App - Debug level Log displaying
+2022-11-15 18:09:13.856 [main] INFO  org.example.App - Info level Log displaying
+2022-11-15 18:09:13.856 [main] WARN  org.example.App - Warn level Log displaying
+2022-11-15 18:09:13.856 [main] ERROR org.example.App - Error level Log displaying
+2022-11-15 18:09:13.856 [main] FATAL org.example.App - Fatal level Log displaying
